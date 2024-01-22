@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I am currently working toward the PhD degree in the Department of Computer Science and Technology, Nanjing University, China. 
+- 🌱 My current research interests include software configuration management and intelligent software.
+- 📫 How to reach me: wchengcs.nju@gmail.com
+
 <!--
 **njuweicheng/njuweicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
