@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am currently working toward the PhD degree in the Department of Computer Science and Technology, Nanjing University, China. 
-- 🌱 My current research interests include software configuration management and intelligent software.
+- 🌱 My current research interests include software configuration management and intelligent software development (LLM4SE).
 - 📫 How to reach me: wchengcs.nju@gmail.com
 
 <!--
